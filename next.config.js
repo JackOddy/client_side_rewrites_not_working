@@ -3,7 +3,7 @@ module.exports = {
         beforeFiles: [
             {
                 source: '/overwritten',
-                destination: 'https://pokeapi.co/api/v2/pokemon/ditto'
+                destination: 'https://example.com'
             }
         ]
     }),
